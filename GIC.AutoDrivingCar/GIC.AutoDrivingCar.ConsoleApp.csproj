@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GIC.AutoDrivingCar.Application\GIC.AutoDrivingCar.Application.csproj" />
+    <ProjectReference Include="..\GIC.AutoDrivingCar.Domain\GIC.AutoDrivingCar.Domain.csproj" />
+    <ProjectReference Include="..\GIC.AutoDrivingCar.Infrastructure\GIC.AutoDrivingCar.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

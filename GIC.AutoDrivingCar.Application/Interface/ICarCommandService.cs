@@ -2,7 +2,7 @@
 
 namespace GIC.AutoDrivingCar.Application.Interface
 {
-    interface ICarCommandService
+    public interface ICarCommandService
     {
         void ExecuteCommands(Car car, string commands);
     }

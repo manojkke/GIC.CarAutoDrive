@@ -15,3 +15,5 @@
 /GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.pdb
 /GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.sourcelink.json
 /GIC.AutoDrivingCar.Infrastructure/obj
+/GIC.AutoDrivingCar.Application/obj/Debug/net8.0
+/GIC.AutoDrivingCar.Application/obj

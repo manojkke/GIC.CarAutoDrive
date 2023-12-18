@@ -1,6 +1,6 @@
 ﻿namespace GIC.AutoDrivingCar.Domain.Enums
 {
-    public enum Direction
+    public enum FacingDirection
     {
         North,
         East,

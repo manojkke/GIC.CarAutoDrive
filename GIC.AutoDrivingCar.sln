@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIC.AutoDrivingCar.Console", "GIC.AutoDrivingCar\GIC.AutoDrivingCar.Console.csproj", "{468C9519-2B2A-4A32-B6E0-95E77F477343}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GIC.AutoDrivingCar.Presentation", "GIC.AutoDrivingCar\GIC.AutoDrivingCar.Presentation.csproj", "{468C9519-2B2A-4A32-B6E0-95E77F477343}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8CCAD62E-ABDB-492D-964F-D43FB993E68A}"
 EndProject

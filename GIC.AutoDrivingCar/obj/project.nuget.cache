@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HzOXmrXUa5CN4KENNCmpYnJGPYtC8XKPJIQRUp4RXv1HpXw0gsuJordlEP9yAcV/XwFefVeweIG7p83to1SZug==",
+  "dgSpecHash": "vhxRSEj3fsJDkis9yEW0Mn7q2rGxA+94Rc9f5zv3B39QYJgS64kttVaQDpUfxGF8//Cql7bMa05UzR7CYoV0XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Console.csproj",
+  "projectFilePath": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Presentation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

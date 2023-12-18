@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Console.csproj",
-      "projectName": "GIC.AutoDrivingCar.Console",
-      "projectPath": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Console.csproj",
+      "projectUniqueName": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Presentation.csproj",
+      "projectName": "GIC.AutoDrivingCar.Presentation",
+      "projectPath": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar.Presentation.csproj",
       "packagesPath": "C:\\Users\\Hiiii Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hiiii Lenovo\\source\\repos\\GIC.AutoDrivingCar\\GIC.AutoDrivingCar\\obj\\",
       "projectStyle": "PackageReference",

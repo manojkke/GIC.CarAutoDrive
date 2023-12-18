@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GIC.AutoDrivingCar/bin/Debug/net8.0/GIC.AutoDrivingCar.Presentation.dll
+/GIC.AutoDrivingCar/bin/Debug/net8.0/GIC.AutoDrivingCar.Presentation.exe
+/GIC.AutoDrivingCar/bin/Debug/net8.0/GIC.AutoDrivingCar.Presentation.pdb
+/GIC.AutoDrivingCar/obj/Debug/net8.0/ref/GIC.AutoDrivingCar.Presentation.dll
+/GIC.AutoDrivingCar/obj/Debug/net8.0/refint/GIC.AutoDrivingCar.Presentation.dll
+/GIC.AutoDrivingCar/obj/Debug/net8.0/apphost.exe
+/GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.AssemblyInfo.cs
+/GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.AssemblyInfoInputs.cache
+/GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.dll
+/GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.pdb
+/GIC.AutoDrivingCar/obj/Debug/net8.0/GIC.AutoDrivingCar.Presentation.sourcelink.json
